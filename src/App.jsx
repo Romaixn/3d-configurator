@@ -56,7 +56,7 @@ function Shirt(props) {
             scale={0.15}
             opacity={0.7}
             map={texture}
-            map-anisotropy={16}
+            anisotropy={16}
         />
       </mesh>
   )
